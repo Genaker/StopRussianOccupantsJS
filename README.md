@@ -1,5 +1,7 @@
 # StopRussianOccupantsJS
 
+![589](https://user-images.githubusercontent.com/9213670/155880940-03773b1b-25e5-4cc4-a8f1-aa2cbfa55021.jpg)
+
 ## English
 
 The "official" news in the Russian Federation is fake and we believe it is better to shut them down and let people switch to trustful news.
