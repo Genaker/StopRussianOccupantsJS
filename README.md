@@ -1,4 +1,4 @@
-# StopRussianOccupntsJS
+# StopRussianOccupantsJS
 
 ## English
 
